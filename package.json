@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-github-actions-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js Hello World app with GitHub Actions demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "github-actions",
+    "ci"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
